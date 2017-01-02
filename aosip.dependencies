@@ -1,6 +1,6 @@
 [
  {
-    "renote":      "github",
+    "remote":  "github",
     "repository":  "DirtyUnicorns/android_kernel_google_dragon",
     "target_path": "kernel/google/dragon",
     "branch":      "n7x"
